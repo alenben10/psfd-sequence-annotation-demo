@@ -2,7 +2,7 @@
 
 Experimental static GitHub Pages demo for PSFD annotation.
 
-This repository is intentionally independent from `alenzimic.github.io` so the
+This repository is intentionally independent from `alenben10.github.io` so the
 stable PSFD webpage can remain available while sequence/compound relationship
 features are tested here.
 
@@ -45,7 +45,7 @@ after cloning. To refresh them, point the builder at a local checkout of the
 main PSFD pipeline that contains `output/` and `data/`.
 
 ```bash
-git clone https://github.com/alenzimic/psfd-sequence-annotation-demo.git
+git clone https://github.com/alenben10/psfd-sequence-annotation-demo.git
 cd psfd-sequence-annotation-demo
 
 # Option 1: configure once for the shell.
